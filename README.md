@@ -1,12 +1,9 @@
 # nft-card-component
 NFT Preview Card Component designed with HTML/CSS
 
-# product-preview
-Simple Responsive product preview page
+# Frontend Mentor - NFT preview card component solution
 
-# Frontend Mentor - Product preview card component solution
-
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
 
 ## Table of contents
 
@@ -28,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub)
-- Live Site URL: [Vercel](https://product-preview-snowy.vercel.app/)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/nft-card-component-with-flexbox-BULuYq9QgN)
+- Live Site URL: [Vercel](https://nft-card-component-sigma.vercel.app/)
 
 ### Built with
 
@@ -38,11 +35,11 @@ Users should be able to:
 - Flexbox
 
 ### What I learned
-- How use @import to use google fonts
+- How to cause multiple elements to respond to one :hover rule.
 
 ### Continued development
 
-Still Need more practice on responsiveness.
+I keep having pags shift to the right, i can't figure out why. it's so little it's almost un-noticable on larger screens but it's so obvious on smaller screens.
 
 
 ## Author
