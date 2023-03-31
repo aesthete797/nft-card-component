@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Continued development
 
-I keep having pags shift to the right, i can't figure out why. it's so little it's almost un-noticable on larger screens but it's so obvious on smaller screens.
+I keep having pages shift to the right, i can't figure out why. it's so little it's almost un-noticable on larger screens but it's so obvious on smaller screens.
 
 
 ## Author
